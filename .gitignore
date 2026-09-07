@@ -1,0 +1,5 @@
+# Yalnız gözden geçirilmiş Niri dosyalarını takip et.
+/*
+!/.gitignore
+!/README.md
+!/config.kdl
